@@ -76,7 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const SizedBox(
               height: 25,
             ),
-            if (!isRecording && audioPath != null)
+            if (!isRecording)
               ElevatedButton(
                 onPressed: playRecording,
                 child: const Text('Play Recording'),
