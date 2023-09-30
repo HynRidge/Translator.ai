@@ -9,3 +9,5 @@ Do maintain thE SOurces in the order **from the latest to the oldest**.
 > **EXAMPLE**
 >
 > - [Knowledge A](http://sourcetoknowledge.com) (Added: 30-08-2023)
+
+- [Hugging Face Audio ML Tutorial](https://huggingface.co/learn/audio-course/chapter0/introduction)  (Added: 31-08-2023)
