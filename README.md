@@ -1,11 +1,10 @@
 # Translator.ai
 
-<h1>About</h1>
+# About
 A Speech-to-speech low latency translator that allows instant speech translation.
 
-<h1>Goal</h1>
+# Goal
 Aim to reach < 1s ML processing latency.
 
-<h1> Maintained by: </h1>
-
+# Maintained by:
 - [Heinrich](https://github.com/HynRidge)
